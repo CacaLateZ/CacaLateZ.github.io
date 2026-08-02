@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "4cdd4b38-2322-436a-ab6b-6f179bc9b86e.png"
+  avatar           : "image.png"
   name             : "Eric's Space"
   pronouns         : # example: "she/her"  
   bio              : "Im Eric Fang......."
